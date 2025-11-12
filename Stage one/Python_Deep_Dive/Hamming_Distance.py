@@ -2,7 +2,7 @@
 Hackbio Internship
 Team: Glycine
 
-# Task: Calculate Hamming Distance
+# Task: Calculate the Hamming Distance
 # Author: Opeoluwa Shodipe
 # Github: https://github.com/Opeoluwa-Shodipe/Single-Cell-RNA-Sequencing/tree/main/Stage%20one
 # Linkedin: https://www.linkedin.com/in/sopeoluwa/
